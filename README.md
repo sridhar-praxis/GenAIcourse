@@ -14,3 +14,6 @@ Welcome to the AI for Productivity Course! This course aims to empower individua
 8. Enhancing Decision Making: AI-powered Insights and Analytics
 9. Ethical Considerations and Best Practices in AI Usage
 10. Hands-on Activities and Case Studies
+
+
+[Contact Us](contact.md)
