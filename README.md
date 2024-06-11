@@ -16,4 +16,4 @@ Welcome to the AI for Productivity Course! This course aims to empower individua
 10. Hands-on Activities and Case Studies
 
 
-[Contact Us](contact.md)
+[Contact Us](contact-us.md)
